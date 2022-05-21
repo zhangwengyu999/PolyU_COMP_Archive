@@ -1,0 +1,26 @@
+{
+    "id": "77E341AB",
+    "path": "~/Desktop/IDA/COMP1433_IDA_WORK/Assignement/answer/Answer/Q2.R",
+    "project_path": "Q2.R",
+    "type": "r_source",
+    "hash": "2812434440",
+    "contents": "",
+    "dirty": false,
+    "created": 1650004607840.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "67,5",
+        "scrollLine": "49"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1649820714,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1649820714,
+    "read_only": false,
+    "read_only_alternatives": []
+}
