@@ -1,0 +1,21 @@
+OOP_A3-3 Made by ZHANG Wengyu(21098431d)
+
+[Task 3]
+super(name + "B") 
+
+[Task 4]
+this.name
+
+[Task 5]
+this.name + "B" + msg
+
+[Task 6]
+super(name + "C")
+
+[Task 7]
+this.name
+
+[Task 8]
+this.name + msg
+
+OOP_A3-3 Made by ZHANG Wengyu(21098431d)
