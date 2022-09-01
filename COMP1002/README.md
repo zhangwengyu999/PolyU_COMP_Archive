@@ -5,6 +5,8 @@ COMP1002 Computational Thinking and Problem Solving - The Hong Kong Polytechnic 
 
 - **My Solution to the _Domino Matching Problem_ in L6**: [https://ultrafish.cn/2021/11/04/domino-matching/](https://ultrafish.cn/2021/11/04/domino-matching/)
 
+---
+
 ## Disclaimer of Liability
 
 **The material and information contained on this website is for general information, reference, and self-learning purposes only. You should not rely upon the material or information on the website as a basis for making any academic, business, legal or any other decisions. You should not copy any material or information on the website into any of your academic, business, legal or any other non-private usages. ZHANG Wengyu will not be responsible for any consequences due to your violations.**
