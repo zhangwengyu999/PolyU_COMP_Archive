@@ -1,3 +1,6 @@
+> ***Please carefully read the [Disclaimer of Liability](#disclaimer-of-liability) below first.***  
+> All materials in this archive are for reference only. The actual one may vary.
+
 # PolyU_COMP1433
 COMP1433 Introduction to Data Analytics  - The Hong Kong Polytechnic University
 - My **Coures** Note: [https://ultrafish.cn/2022/04/30/introduction-to-data-analytics-course-note/](https://ultrafish.cn/2022/04/30/introduction-to-data-analytics-course-note/)
