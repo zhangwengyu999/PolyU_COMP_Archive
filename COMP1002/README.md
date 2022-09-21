@@ -1,3 +1,6 @@
+> ***Please carefully read the [Disclaimer of Liability](#disclaimer-of-liability) below first.***  
+> All materials in this archive are for reference only. The actual one may vary.
+
 # PolyU COMP1002
 COMP1002 Computational Thinking and Problem Solving - The Hong Kong Polytechnic University
 
