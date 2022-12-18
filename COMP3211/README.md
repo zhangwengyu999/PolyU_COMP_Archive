@@ -3,9 +3,12 @@
 
 # PolyU_COMP3211
 COMP3211 Software Engineering - The Hong Kong Polytechnic University 
+
+Content:
 - [My Software Engineering Course Note](https://ultrafish.cn/2022/12/15/software-engineering-course-note/)  
-- [[PDF] Sommerville Software Engineering 10ed](https://github.com/zhangwengyu999/PolyU_COMP_Archive/blob/main/COMP3211/Book_%26_Answer/Sommerville-Software-Engineering-10ed.pdf) 
-- [[PDF] Solutions Manual of Sommerville Software Engineering 10ed](https://github.com/zhangwengyu999/PolyU_COMP_Archive/blob/main/COMP3211/Book_%26_Answer/Solutions_Manual_Sommerville-Software-Engineering-10ed.pdf) 
+- Book & Answer:
+  - [[PDF] Sommerville Software Engineering 10ed](https://github.com/zhangwengyu999/PolyU_COMP_Archive/blob/main/COMP3211/Book_%26_Answer/Sommerville-Software-Engineering-10ed.pdf) 
+  - [[PDF] Solutions Manual of Sommerville Software Engineering 10ed](https://github.com/zhangwengyu999/PolyU_COMP_Archive/blob/main/COMP3211/Book_%26_Answer/Solutions_Manual_Sommerville-Software-Engineering-10ed.pdf) 
 
 ---
 
