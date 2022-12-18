@@ -3,8 +3,11 @@
 
 # PolyU_COMP1411
 COMP1411 Introduction to Computer Systems - The Hong Kong Polytechnic University 
-- My Coures Note: [https://ultrafish.cn/2022/04/30/introduction-to-computer-systems-course-note/](https://ultrafish.cn/2022/04/30/introduction-to-computer-systems-course-note/)
-- My Computer Systems Self-learning Notes: [https://ultrafish.cn/categories/Computer-System/](https://ultrafish.cn/categories/Computer-System/)
+
+Content:
+- Assignments
+- Coures Note: [https://ultrafish.cn/2022/04/30/introduction-to-computer-systems-course-note/](https://ultrafish.cn/2022/04/30/introduction-to-computer-systems-course-note/)
+- Computer Systems Self-learning Notes: [https://ultrafish.cn/categories/Computer-System/](https://ultrafish.cn/categories/Computer-System/)
 - Useful Tools:
   - [y86-64 Simulator](https://boginw.github.io/js-y86-64/)
   - [Compiler Explorer](https://godbolt.org/)
