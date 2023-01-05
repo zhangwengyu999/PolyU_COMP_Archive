@@ -10,6 +10,7 @@ This archive is used to store and share my ug subject materials in PolyU COMP.
 - COMP1433 Introduction to Data Analytics
 - COMP2021 Object-Oriented Programming
 - COMP2411 Database Systems
+- COMP3211 Software Engineering
 
 ## Copyright
 belongs to
