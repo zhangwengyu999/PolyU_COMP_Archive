@@ -5,12 +5,14 @@
 This archive is used to store and share my ug subject materials in PolyU COMP.
 
 ## Subjects
-- COMP1002 Computational Thinking and Problem Solving
-- COMP1411 Introduction to Computer Systems
-- COMP1433 Introduction to Data Analytics
-- COMP2021 Object-Oriented Programming
-- COMP2411 Database Systems
-- COMP3211 Software Engineering
+- [COMP1002 Computational Thinking and Problem Solving](./COMP1002/)
+- [COMP1411 Introduction to Computer Systems](./COMP1411/)
+- [COMP1433 Introduction to Data Analytics](./COMP1433/)
+- [COMP2021 Object-Oriented Programming](./COMP2021/)
+- [COMP2411 Database Systems](./COMP2411/)
+- [COMP3211 Software Engineering](./COMP3211/)
+
+---
 
 ## Copyright
 belongs to
