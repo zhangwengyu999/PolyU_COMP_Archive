@@ -4,7 +4,7 @@
 # PolyU_COMP2411
 COMP2411 Database Systems - The Hong Kong Polytechnic University  
 Content:
-- [Database Systems Course Note](https://ultrafish.cn/2022/12/13/database-systems-course-note/)  
+- [Database Systems Course Note](https://ultrafish.io/post/database-systems-course-note/)  
 - Assignment
 - Lab & Tut
 - Test
