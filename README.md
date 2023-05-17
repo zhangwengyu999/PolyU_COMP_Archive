@@ -9,8 +9,11 @@ This archive is used to store and share my ug subject materials in PolyU COMP.
 - [COMP1411 Introduction to Computer Systems](./COMP1411/)
 - [COMP1433 Introduction to Data Analytics](./COMP1433/)
 - [COMP2021 Object-Oriented Programming](./COMP2021/)
+- [COMP2322 Computer Networking](./COMP2322/)
 - [COMP2411 Database Systems](./COMP2411/)
+- [COMP2432 Operating Systems](./COMP2432/)
 - [COMP3211 Software Engineering](./COMP3211/)
+- [COMP4423 Computer Vision](./COMP4423/)
 
 ---
 
