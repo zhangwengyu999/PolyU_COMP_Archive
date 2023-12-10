@@ -6,7 +6,8 @@
 COMP3211 Software Engineering - The Hong Kong Polytechnic University 
 
 Content:
-- [My Software Engineering Course Note](https://ultrafish.io/post/software-engineering-course-note/) 
+- [[Website] My Software Engineering Course Note](https://ultrafish.io/post/software-engineering-course-note/)
+- [[PDF] My Software Engineering Course Note](./SE_Note.pdf) 
 - Assignment 
 - Project
 - Book & Answer:
