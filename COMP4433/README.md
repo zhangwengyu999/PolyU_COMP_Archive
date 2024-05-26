@@ -7,7 +7,8 @@ COMP4433 Data Mining and Data Warehousing - The Hong Kong Polytechnic University
 Content:
 - [[Website] Data Mining and Data Warehousing Course Note](https://ultrafish.io/post/data-mining-and-data-warehousing-course-note/)
 - Assignment
-- Quiz 
+- Quiz
+- [Individual Project (Heart Attack Analysis and Prediction)](https://github.com/zhangwengyu999/Heart_Attack_Analysis_and_Prediction)
 
 2023-24 Semester 1
 
