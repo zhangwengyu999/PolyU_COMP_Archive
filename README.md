@@ -14,8 +14,11 @@ This archive is used to store and share my ug subject materials in PolyU COMP.
 - [COMP2411 Database Systems](./COMP2411/)
 - [COMP2432 Operating Systems](./COMP2432/)
 - [COMP3211 Software Engineering](./COMP3211/)
+- [COMP3334 Computer Systems Security](./COMP3334)
+- [COMP3422 Creative Digital Media Design](./COMP3422)
 - [COMP3438 System Programming](./COMP3438/)
 - [COMP4423 Computer Vision](./COMP4423/)
+- [COMP4432 Machine Learning](./COMP4432)
 - [COMP4433 Data Mining and Data Warehousing](./COMP4433/)
 
 ---
