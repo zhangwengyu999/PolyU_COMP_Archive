@@ -9,6 +9,7 @@ Content:
 - Assignment
 - Quiz
 - Tutorial
+- [Individual Project (Don't Overfit! II)](https://github.com/zhangwengyu999/Do_not_Overfit)
 
 2023-24 Semester 2
 
