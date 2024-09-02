@@ -8,6 +8,7 @@ Content:
 - [[Website] Data Mining and Data Warehousing Course Note](https://ultrafish.io/post/data-mining-and-data-warehousing-course-note/)
 - Assignment
 - Quiz
+- Tutorial
 - [Group Project (House Price Predictions)](https://github.com/zhangwengyu999/House_Price_Predictions)
 - [Individual Project (Heart Attack Analysis and Prediction)](https://github.com/zhangwengyu999/Heart_Attack_Analysis_and_Prediction)
 
