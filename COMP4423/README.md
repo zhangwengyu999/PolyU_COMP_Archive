@@ -6,8 +6,11 @@
 COMP4423 Computer Vision - The Hong Kong Polytechnic University  
 Content:
 - [Course materials for COMP 4423 - Computer Vision for Beginners at the Hong Kong Polytechnic University - Prof. Wei's GitHub](https://github.com/lookwei/COMP4423.git)  
-- Assignment
-- Project 
+- [Assignment](./Assignment)
+  - [A1 - Sign Language Recognition System by Support Vector Machines (SVM)](https://github.com/zhangwengyu999/Sign_Language_Recognition_SVM)
+  - [A2 - A Campus Tour Guide with On-campus Landmarks Recognition System by Convolutional Neural Network Models](https://github.com/zhangwengyu999/Campus_Tour_Guide)
+- [Project](./Project)
+  - [Fashion Image Generation by Generative Adversarial Networks (GANs) on Fashion MNIST](https://github.com/zhangwengyu999/Fashion_Image_Generation_Project)
 
 ---
 
