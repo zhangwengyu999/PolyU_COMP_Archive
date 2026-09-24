@@ -1,6 +1,8 @@
+
+
 > [!CAUTION]
 > ***Please carefully read the [Disclaimer of Liability](#disclaimer-of-liability) below first.***  
-> All materials in this archive are for reference only. The actual one may vary.
+> All materials in this archive are for reference only. The actual ones may vary.
 
 # PolyU COMP Archive
 This archive is used to store and share my ug subject materials in PolyU COMP.
